@@ -1,0 +1,9 @@
+{
+  "name": "introToYarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cows": "^1.1.0"
+  }
+}
